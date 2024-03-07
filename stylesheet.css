@@ -18,10 +18,10 @@ h3{
 }
 div.description {
     color:blue; 
-    font-size: 20px; 
+    font-size: 15px; 
     font-family: 'Times New Roman', Times, serif;
-    width: 300px;
-    border: 10px solid teal;
+    width: 600px;
+    border: 5px solid teal;
 }
 
 
@@ -29,8 +29,8 @@ div.experiences{
     font-size: 12px;
     font-family: 'Times New Roman', Times, serif;
     color: black;
-    width: 300px;
-    border: 10px solid tan;
+    width: 600px;
+    border: 5px solid tan;
 }
 
 a:link{
